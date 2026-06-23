@@ -1,0 +1,17 @@
+{
+  "killswitches": {
+    "ejobs": true,
+    "bestjobs": true,
+    "anofm": true
+    "undelucram": true
+  },
+  "version_control": {
+    "minimum_required_version": "1.0.0",
+    "latest_version": "1.0.0",
+    "update_url": "https://github.com/yourusername/jobspot/releases"
+  },
+  "app_info": {
+    "support_email": "jobspot.ro@outlook.com",
+    "notice": "Active source configurations for JobSpot client modules."
+  }
+}
