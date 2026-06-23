@@ -1,8 +1,8 @@
 {
   "killswitches": {
     "ejobs": false,
-    "anofm": false,
-    "undelucram": true,
+    "anofm": true,
+    "undelucram": false,
     "hipo" : false,
   },
   "version_control": {
