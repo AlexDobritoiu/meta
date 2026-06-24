@@ -1,6 +1,6 @@
 {
   "killswitches": {
-    "ejobs": false,
+    "ejobs": true,
     "anofm": true,
     "undelucram": true,
     "hipo" : true,
