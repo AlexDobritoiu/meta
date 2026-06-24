@@ -1,9 +1,9 @@
 {
   "killswitches": {
     "ejobs": false,
-    "anofm": false,
+    "anofm": true,
     "undelucram": true,
-    "hipo" : false,
+    "hipo" : true,
   },
   "version_control": {
     "minimum_required_version": "1.0.0",
